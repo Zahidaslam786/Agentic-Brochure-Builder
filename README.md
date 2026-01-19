@@ -31,3 +31,5 @@ Traditional static scraping often captures "noise." This system utilizes a multi
   <img src="https://github.com/user-attachments/assets/e0608342-72bf-443a-9250-de1726aa7a97" width="48%" />
   <img src="https://github.com/user-attachments/assets/36dcd49b-25b8-49b5-be0a-5271c75f2409" width="48%" />
 </div>
+
+A huge thank you to Ed Donnar for providing the structured guidance and foundational framework that made these AI Engineering breakthroughs possible.
